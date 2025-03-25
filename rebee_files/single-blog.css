@@ -1335,8 +1335,8 @@ ul.basic-list-normal > li {
 .card-blog p {
     overflow: hidden;
     display: -webkit-box;
-    -webkit-line-clamp: 7;
-    line-clamp: 7;
+    -webkit-line-clamp: 10;
+    line-clamp: 10;
     -webkit-box-orient: vertical
 }
 
